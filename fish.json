@@ -1,0 +1,20 @@
+{
+"fishes":[
+
+{
+"name": "Fish001",
+"img":"/images/fish1.jpg"
+}
+,
+{
+"name": "Fish002",
+"img": "/images/fish2.jpg"
+},
+  {
+    "name": "Fish003",
+    "img": "/images/fish3.jpg"
+  }
+]
+
+
+}

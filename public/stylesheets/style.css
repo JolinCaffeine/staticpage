@@ -1,0 +1,26 @@
+body {
+  background-color: cornsilk;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+p{
+  background-color: aqua;
+}
+
+p.para{
+  color: blue;
+  background-color: beige;
+  font-size: medium;
+  padding: 5px;
+  margin: 5px;
+
+}
+.image{
+  max-height:150px;
+  max-width:150px;
+  padding:5px;
+  border-color:purple;
+  border-style: solid;
+  border-width:2.5px;
+  border-radius:7.5px;
+}
